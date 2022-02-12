@@ -1,0 +1,1 @@
+OctaveBot - a music bot that you can use to listen to music with your community and including an option to let listeners vote to decide if the current song should get skipped or continue playing.
